@@ -36,3 +36,7 @@ Esse é o módulo do curso que trata sobre o versionamento dos projetos utilizan
 ### Comandos da Live de 09/05/22
 
 - em construção
+- git stash (salva alterações sem commit)
+- git stash pop (restaura alterações salvas)
+- git stash list (list stashes)
+- git stash pop stash@{1} (aplica stash especifico)
